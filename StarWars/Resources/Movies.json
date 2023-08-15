@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Episode I – The Phantom Menace",
+        "releaseYear": "1999",
+        "poster": "1"
+    },
+    {
+        "name": "Episode II – Attack of the Clones",
+        "releaseYear": "2002",
+        "poster": "2"
+    },
+    {
+        "name": "Episode III – Revenge of the Sith",
+        "releaseYear": "2005",
+        "poster": "3"
+    },
+    {
+        "name": "Episode IV – A New Hope",
+        "releaseYear": "1997",
+        "poster": "4"
+    },
+    {
+        "name": "Episode V – The Empire Strikes Back",
+        "releaseYear": "1980",
+        "poster": "5"
+    },
+    {
+        "name": "Episode VI – Return of the Jedi",
+        "releaseYear": "1983",
+        "poster": "6"
+    },
+    {
+        "name": "Episode VII – The Force Awakens",
+        "releaseYear": "2015",
+        "poster": "7"
+    },
+    {
+        "name": "Episode VIII – The Last Jedi",
+        "releaseYear": "2017",
+        "poster": "8"
+    },
+    {
+        "name": "Episode IX – The Rise of Skywalker",
+        "releaseYear": "2019",
+        "poster": "9"
+    }
+]
+
